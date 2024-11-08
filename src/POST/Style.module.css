@@ -1,0 +1,126 @@
+.posts {
+  margin: 30px;
+  padding: 20px;
+}
+  .container {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-shadow: 0 2px 2px rgba(0, 0, 0, 0.1);
+    padding: 5px 20px;
+    /* margin-bottom: 1rem; */
+    margin: 13px;
+  }
+  .posttitle{
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin: 0;
+    margin-bottom: 0.5rem;
+  }
+  .postcontent{
+    margin: 0;
+  margin-bottom: 1rem;
+  color: rgb(3, 3, 151);
+  }
+  
+  h2 {
+    text-align: center;
+    color: #333;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  label {
+    margin-bottom: 5px;
+    color: #555;
+  }
+  
+  input, textarea {
+    margin-bottom: 15px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  .parag{
+    display: flex;
+    gap: 10px;
+  }
+  
+  .button {
+    padding: 5px 5px;
+    width: 30px;
+    border: none;
+    border-radius: 50%;
+    background-color: #d8d6d6;
+    color: rgb(6, 6, 6);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    font-size: 16px;
+    cursor: pointer;
+    text-decoration: none;
+  }
+  
+ .button:hover {
+    background-color: #c7c8ca;
+  }
+
+  .btn{
+    margin: 10px 40px;
+    padding: 7px 5px;
+    width: 140px;
+    border: none;
+    border-radius: 4px;
+    background-color: #b4b6b8;
+    color: white;
+    font-size: 17px;
+    display: flex;
+    cursor: pointer;
+  }
+  .btn:hover{
+    background-color: rgb(120, 120, 140);
+  }
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin: 10px 0;
+  }
+  
+  a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  p {
+   
+    color: rgb(4, 4, 4);
+  }
+  .comment{
+    margin: 15px 0 0 0;
+  }
+  .create{
+    margin: 40px;
+  }
+  /*   commment section */
+  .commentsection{
+    border-top:  1.4px solid #adaeae;
+    padding: 5px 2px;
+    margin-top: 10px;
+    color: rgb(168, 165, 165);
+    cursor: pointer;
+  }
+  .commentsection h5{
+    color: rgb(168, 165, 165);
+  }
+
+  .user{
+    font-size: 30px;
+  }

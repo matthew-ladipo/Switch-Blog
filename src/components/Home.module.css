@@ -1,0 +1,15 @@
+.home {
+  background-image: url("../images/image-hero-desktop.jpg");
+
+  height: 400px;
+  padding: 3px 0;
+
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+/* .post{
+    background-image:  url("../images/image-about-dark.jpg");
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: cover;
+} */
